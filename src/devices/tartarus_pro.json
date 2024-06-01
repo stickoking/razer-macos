@@ -1,0 +1,16 @@
+{
+  "name": "Razer Tartarus Pro",
+  "productId": "0x0244",
+  "mainType": "keyboard",
+  "image": "https://assets.razerzone.com/eeimages/support/products/1591/1591_tartaruspro.png",
+  "features": null,
+  "featuresMissing": ["ripple"],
+  "featuresConfig": [
+    {
+      "wheel": {
+        "rows": 4,
+        "cols": 6
+      }
+    }
+  ]
+}
