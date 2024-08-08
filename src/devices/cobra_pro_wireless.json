@@ -1,0 +1,22 @@
+{
+  "name": "Razer Cobra Pro Wireless",
+  "productId": "0x00B0",
+  "mainType": "mouse",
+  "image": "https://dl.razerzone.com/src2/13182/13182-1-en-v2.png",
+  "features": null,
+  "featuresMissing": ["oldMouseEffects", "reactive", "breathe"],
+  "featuresConfig": [
+    {
+      "mouseBrightness": {
+        "enabledMatrix": false,
+        "enabledLeft": false,
+        "enabledRight": false
+      }
+    },
+    {
+      "dpi": {
+        "max": 30000
+      }
+    }
+  ]
+}

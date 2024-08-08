@@ -1,0 +1,15 @@
+{
+  "name": "Razer Cobra Pro Wired",
+  "productId": "0x00AF",
+  "mainType": "mouse",
+  "image": "https://dl.razerzone.com/src2/13182/13182-1-en-v2.png",
+  "features": null,
+  "featuresMissing": ["oldMouseEffects", "reactive", "breathe"],
+  "featuresConfig": [
+    {
+      "dpi": {
+        "max": 30000
+      }
+    }
+  ]
+}
