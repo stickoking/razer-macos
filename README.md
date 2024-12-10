@@ -14,7 +14,7 @@
 - **Works on the latest macOS** Including Intel and Apple Silicon. There are no current plans from Razer to support macOS ([source](https://mysupport.razer.com/app/answers/detail/a_id/1381/kw/macOS))
 
 ## Important note
-This is not the original repo the original repo is from [1kc/librazermacos](https://github.com/1kc/razer-macos) I forked this repo to maintain it as the original seems to be abandoned.
+This is not the original repo the original repo is from [stickoking/librazermacos](https://github.com/stickoking/razer-macos) and [1kc/librazermacos](https://github.com/1kc/razer-macos) I forked this repo to add support for the Razer BlackWidow V4 X.
 
 ## Download
 
@@ -66,6 +66,7 @@ Keyboards:
 - Razer BlackWidow X Chroma Ultimate
 - Razer BlackWidow V4 PRO
 - Razer BlackWidow V4 75%
+- Razer BlackWidow V4 X
 - Razer Cynosa Chroma
 - Razer Cynosa Lite
 - Razer Cynosa V2

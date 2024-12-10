@@ -1,0 +1,21 @@
+{
+    "name": "Razer BlackWidow V4 X",
+    "productId": "0x0293",
+    "mainType": "keyboard",
+	"image": "https://dl.razerzone.com/src2/13223/13223-1-en-v1.png",
+    "features": null,
+    "featuresConfig": [
+      {
+        "ripple": {
+            "rows": 6,
+            "cols": 22
+        }
+      },
+      {
+        "wheel": {
+            "rows": 6,
+            "cols": 22
+        }
+      }
+    ]
+  }

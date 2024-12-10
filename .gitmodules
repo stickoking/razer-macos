@@ -1,6 +1,6 @@
 [submodule "librazermacos"]
 	path = librazermacos
-	url = https://github.com/stickoking/librazermacos
+	url = https://github.com/rullator/librazermacos
 [submodule "iohook"]
 	path = iohook
 	url = https://github.com/overcurrent/iohook
