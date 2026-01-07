@@ -72,6 +72,7 @@ Keyboards:
 - Razer Deathstalker Chroma
 - Razer Deathstalker Expert
 - Razer Deathstalker V2
+- Razer Deathstalker V2 PRO TKL
 - Razer Huntsman
 - Razer Huntsman Elite
 - Razer Huntsman Mini
