@@ -1,0 +1,21 @@
+{
+  "name": "Razer Basilisk V3",
+  "productId": "0x00ab",
+  "mainType": "mouse",
+  "image": "https://m.media-amazon.com/images/I/71L-flqtTwL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+  "features": null,
+  "featuresMissing": ["oldMouseEffects", "reactive", "breathe"],
+  "featuresConfig": [
+    {
+      "dpi": {
+        "max": 30000
+      }
+    },
+    {
+      "mouseBrightness": {
+        "enabledLeft": false,
+        "enabledRight": false
+      }
+    }
+  ]
+}

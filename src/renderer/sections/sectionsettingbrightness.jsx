@@ -16,7 +16,11 @@ export class SectionSettingBrightness extends SectionSettingBlock {
     if (this.brightnessFeature) {
       if (this.deviceSelected.mainType === "mousemat") {
         return 'MouseMat Brightness';
-      } else {
+      }
+      else if (this.deviceSelected.mainType === "accessory") {
+        return 'Accessory Brightness'
+      }
+      else {
         return 'Keyboard Brightness';
       }
     }

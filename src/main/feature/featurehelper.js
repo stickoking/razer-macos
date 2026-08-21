@@ -112,6 +112,7 @@ export class FeatureHelper {
           new FeatureWaveExtended(),
           new FeatureSpectrum(),
           new FeatureBreathe(),
+          new FeatureBrightness(),
         ];
       default:
         console.warn("Unknown mainType "+mainType+". Can't detect feature set.");

@@ -1,0 +1,21 @@
+{
+  "name": "Razer Ornata V3",
+  "productId": "0x02a1",
+  "mainType": "keyboard",
+  "image": "https://assets3.razerzone.com/JCRG_e1sCkQ15E6iooW22TlqP0o=/300x300/https%3A%2F%2Fmedias-p1.phoenix.razer.com%2Fsys-master-phoenix-images-container%2Fhfd%2Fh73%2F9533910810654%2Fornata-v3-4-500x500.png",
+  "features": null,
+  "featuresConfig": [
+    {
+      "ripple": {
+          "rows": 6,
+          "cols": 22
+      }
+    },
+    {
+      "wheel": {
+          "rows": 6,
+          "cols": 22
+      }
+    }
+  ]
+}

@@ -122,6 +122,24 @@ function getFeatureBrightness(application, device, feature) {
         },
       },
       {
+        label: 'Set to 25%',
+        click() {
+          updateBrightness(25);
+        },
+      },
+      {
+        label: 'Set to 50%',
+        click() {
+          updateBrightness(50);
+        },
+      },
+      {
+        label: 'Set to 75%',
+        click() {
+          updateBrightness(75);
+        },
+      },
+      {
         label: 'Set to 100%',
         click() {
           updateBrightness(100);

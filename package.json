@@ -1,7 +1,7 @@
 {
   "name": "razer-macos",
-  "version": "0.4.14",
-  "description": "Open source color effects manager for Razer peripherals on macOS",
+  "version": "0.4.22",
+  "description": "Open source color effects manager for Razer peripherals on MacOS",
   "license": "GPL-2.0-only",
   "main": "src/main/index.js",
   "scripts": {
